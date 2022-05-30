@@ -16,5 +16,13 @@
     "url": ""
   },
   "type": "tool",
-  "hideInEditor": false
+  "hideInEditor": false,
+  "samples": 
+[
+	{
+		"displayName": "Samples",
+		"description": "",
+		"path": "Samples~/"
+	}
+]
 }
